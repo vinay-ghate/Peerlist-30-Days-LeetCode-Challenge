@@ -13,3 +13,4 @@ class Solution:
                 y=prices[i]-x
         return y
       
+# https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
